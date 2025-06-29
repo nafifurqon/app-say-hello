@@ -2,3 +2,5 @@ github.com/nafifurqon/go-say-hello v1.0.0 h1:MmIgnb16S03NpoJb/skUr4ZKJztwVfVfA5z
 github.com/nafifurqon/go-say-hello v1.0.0/go.mod h1:8qhGf0+NwiDZsZ91GFCScZl+K2sez0D/dNherrBsN6M=
 github.com/nafifurqon/go-say-hello v1.1.0 h1:attSGrRJZXPKWc0XxiDh0evCsb2H3CnSnb5J+qwgM/M=
 github.com/nafifurqon/go-say-hello v1.1.0/go.mod h1:8qhGf0+NwiDZsZ91GFCScZl+K2sez0D/dNherrBsN6M=
+github.com/nafifurqon/go-say-hello/v2 v2.0.0 h1:pg8o77tU7E+oD8/mbPc1touYDYyXzjLHplTsXaVrWXo=
+github.com/nafifurqon/go-say-hello/v2 v2.0.0/go.mod h1:LjVjQuF2NXrfTk+2ajF73z5njMnm0TlTfLR8cA4gwOQ=
